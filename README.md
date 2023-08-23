@@ -3,7 +3,7 @@
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/codewithmahadihasan/Ai-Expert-Carrer.git`
+1. Clone the repository: `git clone gh repo clone codewithmahadihasan/Ai-Expert-Carrer`
 2. Navigate to the project directory: `cd AI-Expert-Career`
 3. Install dependencies: `npm install`
 
