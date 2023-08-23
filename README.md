@@ -18,5 +18,5 @@ npm run dev
 
 ## License
 
-This project is licensed under the [BFSOFT](LICENSE).
+This project is licensed under the [Bright Future](www.thebrightfuture.co).
 
